@@ -460,6 +460,7 @@
 				0060C62A18865FE1003ADA4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0060C62B18865FE1003ADA4C /* Build configuration list for PBXNativeTarget "FitusTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				0060C62D18865FE1003ADA4C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
