@@ -155,6 +155,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="gFp-h3-Kvn"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="zcq-Vc-kof" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
